@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pvajra
 - 👀 I’m interested in PROGRAMMING😊
 - 🌱 I’m currently learning WEB DEVELOPMENT💻💻
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... JAVA development
 - 📫 How to reach me vajramattipandurang@gmail.com, +91 8660235243
 
 <!---
